@@ -1,0 +1,1 @@
+double NSum(double **A, int N);
